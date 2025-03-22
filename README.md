@@ -50,7 +50,7 @@ jupyter notebook ViT_CiFAR_Captum.ipynb
 
 ## 📹 Demo Video
 Watch a walkthrough of this project:
-https://youtu.be/your-demo-video-link
+https://youtu.be/_20NqslWbRM
 
 ---
 
