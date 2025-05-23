@@ -1,5 +1,3 @@
-# ai2025-spring-sofia
-
 # Vision Transformer (ViT) Interpretability with Captum
 
 Fine-tuned a Vision Transformer (ViT) on CIFAR-10 and explored model interpretability using Captum's Integrated Gradients.
